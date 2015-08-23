@@ -1,1 +1,2 @@
-
+# Logging
+Simple logging API
